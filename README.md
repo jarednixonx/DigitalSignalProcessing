@@ -1,3 +1,1 @@
-# DigitalSignalProcessing
-
-# Projects including digital signal processing.
+This repository is for digital signal processing projects.
